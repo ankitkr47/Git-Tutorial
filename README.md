@@ -53,9 +53,11 @@ from each otherwise
 17. `git remote add <name of remote> <link of the remote>` : this command helps us to add a new link to the
 remote repo and give a name to it
 
-18.  `git remote rm <name of remote>` : this command deletes a remote connection
+18. `git push <name of remote> <branch/main/master>` : pushes your commit to the branch/repository
 
-19.  `git remote rename <olanme> <newname>` : this command remanes the remote connection
+19.  `git remote rm <name of remote>` : this command deletes a remote connection
+
+20.  `git remote rename <olanme> <newname>` : this command remanes the remote connection
 
 Note: The name of the remote connection is always used to establish communication between the repos
 
